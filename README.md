@@ -1,11 +1,9 @@
 # FlickrSearch
 
 已完成：
-1. 基本題、進階題功能皆已完成
-2. UI 盡量和 Demo 示意圖相同，示意圖未呈現的部分（如"我的最愛按鈕"）則自行構思
-3. MVC 架構
-4. xib, storyboard, 純code，三種 layout 都有用到 
-5. 進階題用 CoreData 完成，並額外新增移除我的最愛功能
+1. MVC 架構
+2. xib, storyboard, 純code，三種 layout 都有用到 
+3. 用 CoreData 完成儲存，並額外新增移除我的最愛功能
 
 
 

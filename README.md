@@ -3,7 +3,7 @@
 已完成：
 1. MVC 架構
 2. xib, storyboard, 純code，三種 layout 都有用到 
-3. 用 CoreData 完成儲存，並額外新增移除我的最愛功能
+3. 用 CoreData 儲存，並額外新增移除我的最愛功能
 
 
 
